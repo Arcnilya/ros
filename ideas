@@ -1,0 +1,6 @@
+save and load function
+variables to track: gold, wares, missions, location, time/date
+map represented by a matrix with city IDs and distances
+market function to sell and buy wares
+fluctuations in prices and amounts due to player trading and other simulated traders (random?)
+change in prices when selling wares in remote areas, increased value due to scarecity
